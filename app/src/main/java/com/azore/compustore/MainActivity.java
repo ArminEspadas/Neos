@@ -37,7 +37,8 @@ public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
 
-
+// ME LA PELAS ARCIQUE
+    //PUTO EL QUE LO LEA
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
